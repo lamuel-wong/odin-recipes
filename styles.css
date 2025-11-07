@@ -1,0 +1,30 @@
+body {
+    background-color: burlywood;
+    font-family:'Times New Roman', Times, serif;
+    padding: 0px 16px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    height: auto;
+    max-width: 100%;
+}
+
+/* h1,
+h2,
+p,
+ul,
+ol {
+    background-color: white;
+} */
+
+.main-content {
+    background-color: white;
+    padding: 0px 16px;
+}
+
+.link-container {
+    text-align: left;
+    padding: 8px;
+}
